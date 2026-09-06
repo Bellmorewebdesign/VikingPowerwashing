@@ -1,0 +1,617 @@
+{
+  "scope": "Active HTML attributes (excluding comments) and CSS url() references; may include unused template CSS assets. Dynamic JavaScript references are not exhaustive.",
+  "missing_local_references": [
+    {
+      "path": "assets/css/Flaticon.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/css/owl.video.play.png",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/Flaticon.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/Flaticon.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/Flaticon.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/Flaticon.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/Flaticon.woff2",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/carousel.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/carousel.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/carousel.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/carousel.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/dental.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/dental.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/dental.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/dental.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-brands-400.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-brands-400.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-brands-400.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-brands-400.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-brands-400.woff2",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-regular-400.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-regular-400.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-regular-400.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-regular-400.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-regular-400.woff2",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-solid-900.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-solid-900.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-solid-900.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-solid-900.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/fa-solid-900.woff2",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/icomoon.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/icomoon.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/icomoon.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/icomoon.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/medisch.eot",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/medisch.svg",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/medisch.ttf",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/fonts/medisch.woff",
+      "referenced_by": [
+        "assets/css/vendor.min.css"
+      ]
+    },
+    {
+      "path": "assets/images/background/2.jpg",
+      "referenced_by": [
+        "homepage-root-snapshot.html",
+        "index.html"
+      ]
+    },
+    {
+      "path": "assets/images/background/6.jpg",
+      "referenced_by": [
+        "about-us.html"
+      ]
+    },
+    {
+      "path": "assets/images/blog/sidebar/reservation.jpg",
+      "referenced_by": [
+        "services.html"
+      ]
+    },
+    {
+      "path": "assets/images/contact/2.jpg",
+      "referenced_by": [
+        "contact.html"
+      ]
+    },
+    {
+      "path": "assets/images/cta/icon.png",
+      "referenced_by": [
+        "about-us.html"
+      ]
+    },
+    {
+      "path": "assets/images/footer/back-top.svg",
+      "referenced_by": [
+        "about-us.html",
+        "contact.html",
+        "homepage-root-snapshot.html",
+        "index.html",
+        "services.html",
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/1.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/10.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/11.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/12.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/13.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/14.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/15.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/16.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/17.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/18.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/19.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/2.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/20.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/21.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/22.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/23.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/24.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/25.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/26.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/27.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/28.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/29.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/3.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/30.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/31.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/32.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/33.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/34.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/35.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/36.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/37.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/38.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/39.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/4.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/5.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/6.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/7a.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/8.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/gallery/9.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/hero/viking-power-washing-long-island-4.jpg",
+      "referenced_by": [
+        "about-us.html",
+        "contact.html"
+      ]
+    },
+    {
+      "path": "assets/images/hero/viking-power-washing-long-island-5.jpg",
+      "referenced_by": [
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/hero/viking-power-washing-long-island-6.png",
+      "referenced_by": [
+        "services.html"
+      ]
+    },
+    {
+      "path": "assets/images/icons/insurance.png",
+      "referenced_by": [
+        "about-us.html"
+      ]
+    },
+    {
+      "path": "assets/images/icons/rating.png",
+      "referenced_by": [
+        "about-us.html"
+      ]
+    },
+    {
+      "path": "assets/images/icons/warranty.png",
+      "referenced_by": [
+        "about-us.html"
+      ]
+    },
+    {
+      "path": "assets/images/logo/viking-logo-dark.jpg",
+      "referenced_by": [
+        "about-us.html",
+        "contact.html",
+        "homepage-root-snapshot.html",
+        "index.html",
+        "services.html",
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/images/services/single.jpg",
+      "referenced_by": [
+        "homepage-root-snapshot.html",
+        "index.html"
+      ]
+    },
+    {
+      "path": "assets/images/sidebar/badge.png",
+      "referenced_by": [
+        "services.html"
+      ]
+    },
+    {
+      "path": "assets/images/video/bg.png",
+      "referenced_by": [
+        "assets/css/style.css"
+      ]
+    },
+    {
+      "path": "assets/images/video/viking-power-washing-long-island-7.jpg",
+      "referenced_by": [
+        "services.html"
+      ]
+    },
+    {
+      "path": "assets/js/vendor/jquery-3.6.0.min.js",
+      "referenced_by": [
+        "about-us.html",
+        "contact.html",
+        "homepage-root-snapshot.html",
+        "index.html",
+        "services.html",
+        "work-gallery.html"
+      ]
+    },
+    {
+      "path": "assets/php/contact.php",
+      "referenced_by": [
+        "contact.html",
+        "homepage-root-snapshot.html",
+        "index.html"
+      ]
+    },
+    {
+      "path": "page-about.html",
+      "referenced_by": [
+        "about-us.html",
+        "work-gallery.html"
+      ]
+    }
+  ],
+  "external_urls": [
+    "https://fonts.googleapis\t.com/css2?family=Caveat:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+    "https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+    "https://fonts.gstatic.com",
+    "https://www.abedimarketingsolutions.net/",
+    "https://www.facebook.com/VikingPowerWash",
+    "https://www.googletagmanager.com/gtag/js?id=G-927JK6PB94",
+    "https://www.instagram.com/vikingpowerwashingli/"
+  ]
+}
